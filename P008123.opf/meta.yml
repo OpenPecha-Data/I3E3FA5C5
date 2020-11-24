@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD20562
   title: གཅོད་ཀྱི་ཚོགས་ལས་རིན་པོ་ཆེའི་ཕྲེང་བ་འདོན་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ།
-  volume: ''
+  volume:
+    bfd581dd0afb4745aba8dee2e85f9ca9:
+      image_group_id: I2PD20734
+      title: Volume 1 of gcod kyi tshogs las rin po che'i phreng ba 'don bsgrigs bltas
+        chog tu bkod pa/
+      volume_number: 1
+      total_pages: 608
   author: ''
+ebook_metadata:
+  title: གཅོད་ཀྱི་ཚོགས་ལས་རིན་པོ་ཆེའི་ཕྲེང་བ་འདོན་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ།
+  author: ''
+  sku: P008123
+  cover: cover.jpg
+  layers:
+  - pagination
