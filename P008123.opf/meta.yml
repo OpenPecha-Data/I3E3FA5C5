@@ -5,11 +5,13 @@ source_metadata:
   title: གཅོད་ཀྱི་ཚོགས་ལས་རིན་པོ་ཆེའི་ཕྲེང་བ་འདོན་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ།
   author: ''
   volumes:
-    32f9a44a5e174de2ad81f213519db660:
+    bfd581dd0afb4745aba8dee2e85f9ca9:
       image_group_id: I2PD20734
-      title: ''
+      title: Volume 1 of gcod kyi tshogs las rin po che'i phreng ba 'don bsgrigs bltas
+        chog tu bkod pa/
       volume_number: 1
       total_pages: 608
+      base_file: v001.txt
 ebook_metadata:
   title: གཅོད་ཀྱི་ཚོགས་ལས་རིན་པོ་ཆེའི་ཕྲེང་བ་འདོན་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ།
   author: ''
