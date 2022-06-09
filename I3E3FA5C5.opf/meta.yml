@@ -1,0 +1,28 @@
+id: I3E3FA5C5
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T01:19:31+00:00'
+last_modified: '2022-06-09T04:39:50.090014+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2PD20562
+  title: གཅོད་ཀྱི་ཚོགས་ལས་རིན་པོ་ཆེའི་ཕྲེང་བ་འདོན་བསྒྲིགས་བལྟས་ཆོག་ཏུ་བཀོད་པ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    9A34:
+      image_group_id: I2PD20734
+      title: Volume 1 of gcod kyi tshogs las rin po che'i phreng ba 'don bsgrigs bltas
+        chog tu bkod pa/
+      total_pages: 608
+      order: 1
+      base_file: 9A34.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
